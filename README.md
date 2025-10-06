@@ -117,4 +117,4 @@ My README file has 6 sections that outline general information about the code, t
 ![Image](http://learn.nextwork.org/surprised_maroon_fierce_chinese_gooseberry/uploads/aws-devops-github_c94976902)
 
 ## Here is link to day 3 where I setup CodeArtifact
- - [7 days DevOps challenge day 2](https://github.com/lbrodziak/7-days-devops-day3)
+ - [7 days DevOps challenge day 3](https://github.com/lbrodziak/7-days-devops-day3)
