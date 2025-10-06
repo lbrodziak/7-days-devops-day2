@@ -106,7 +106,7 @@ I finally saw the changes in my GitHub repo after I commited them and pushed the
 
 ---
 
-## Setting up a READMe file
+## Setting up a README file
 
 As a finishing touch to my GitHub repository, I added a README file, which is a file containing projects documentation. I added a README file by runing touch command to create it in local repo and then pushed the file to github.
 
@@ -116,6 +116,5 @@ My README file has 6 sections that outline general information about the code, t
 
 ![Image](http://learn.nextwork.org/surprised_maroon_fierce_chinese_gooseberry/uploads/aws-devops-github_c94976902)
 
----
-
----
+## Here is link to day 3 where I setup CodeArtifact
+ - [7 days DevOps challenge day 2](https://github.com/lbrodziak/7-days-devops-day3)
